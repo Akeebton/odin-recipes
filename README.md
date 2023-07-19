@@ -1,1 +1,1 @@
-Basic Resipe Website
+Basic Recipe Website
